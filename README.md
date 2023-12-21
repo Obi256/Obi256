@@ -8,12 +8,12 @@ I am Pursuing a masters degree in Information Systems, and will achieve that by 
 
 
 ## Skills and Experience
--  Data Analytics
--  AWS 
--  Java Script 
--  SQL 
--  Terraform
-
+-  Data Analytics :computer:
+-  AWS :cloud:
+-  Java Script :small_red_triangle_down:
+-  SQL :chart_with_upwards_trend:
+-  Terraform :space_invader:
+  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/obi-njoku-168181148//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/i/flow/login?redirect_after_login=%2Fobi626)  
 
 
