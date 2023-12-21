@@ -1,4 +1,4 @@
-![Design, Develop, Implement ](file:///Users/martinnjoku/Downloads/DesignDevelop.png)
+![Design, Develop, Implement ](https://media.licdn.com/dms/image/D5616AQGCDB0Hc0IULQ/profile-displaybackgroundimage-shrink_350_1400/0/1703182890437?e=1708560000&v=beta&t=cmA0DlR3N5RHeJT3MIMa4PrBYitsZlxG5sQ2pfAbcGw)
 
 #### Design, Develop, Implement 
 
