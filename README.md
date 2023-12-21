@@ -10,8 +10,6 @@ I am a solutions architect certification holder with experience in deploying and
 
 Skills: Data Analytics  / AWS / JS / SQL / Terraform
 
-- 🔭 I’m currently working on this page. 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/obi-njoku-168181148//)  
 
