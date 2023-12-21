@@ -1,11 +1,20 @@
-## Hi there 👋, If you made it this far, welcome My name is Obi
+### Hi there 👋, my name is Obi
+#### Design, Develop, Implement 
+![Design, Develop, Implement ](https://media.licdn.com/dms/image/D5616AQGYfv3f0tmkBA/profile-displaybackgroundimage-shrink_350_1400/0/1676338095904?e=1708560000&v=beta&t=dolCCp8ltzCTmMB3BoAG_OjPqq5c0H7gitCUzRStwiY)
+
 I am an aspiring data engineer with a passion to learn as much as I can.
 
-I am a solutions architect certification holder with experience in deploying and managing infrastructure using Hasicorp Terraform. 
-I am also proficient with managing a variety of AWS services such as IAM, EC2, VPC S3, Amazon Lex, Quicksight, Route 53, and so on.
+I am a solutions architect certification holder with experience in deploying and managing infrastructure using Hashicorp Terraform. I am also proficient with managing a variety of AWS services such as IAM, EC2, VPC S3, Amazon Lex, Quick-sight, Route 53, and so on.
 
-I also am skilled in deep data mining and visualizations using tools such as SQL, Hadoop, Excel, Tableau, and SAP
-I am currently enrolled in to obtain my masters degree in Information Systems, I will be graduating in 2024. The skills that I will come out with are 
-data management, networking and security, business analysis, ERP systems, project management, etc...
+
+
+Skills: Data Analytics  / AWS / JS / SQL / Terraform
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/obi-njoku-168181148//)  
+
+.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obi256&theme=dark&show_icons=true)
