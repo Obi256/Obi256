@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Obi
 #### Design, Develop, Implement 
+
 ![Design, Develop, Implement ](https://media.licdn.com/dms/image/D5616AQGYfv3f0tmkBA/profile-displaybackgroundimage-shrink_350_1400/0/1676338095904?e=1708560000&v=beta&t=dolCCp8ltzCTmMB3BoAG_OjPqq5c0H7gitCUzRStwiY)
 
 I am an aspiring data engineer with a passion to learn as much as I can.
@@ -8,7 +9,12 @@ I am a solutions architect certification holder with experience in deploying and
 
 
 
-Skills: Data Analytics  / AWS / JS / SQL / Terraform
+## Skills and Experience
+-  Data Analytics
+-  AWS 
+-  Java Script 
+-  SQL 
+-  Terraform
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/obi-njoku-168181148//)  
