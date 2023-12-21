@@ -15,7 +15,7 @@ I am a solutions architect certification holder with experience in deploying and
 -  SQL 
 -  Terraform
 
-(https://www.linkedin.com/in/https://www.linkedin.com/in/obi-njoku-168181148//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/i/flow/login?redirect_after_login=%2Fobi626)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/obi-njoku-168181148//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/i/flow/login?redirect_after_login=%2Fobi626)  
 
 
 
