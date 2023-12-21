@@ -1,4 +1,4 @@
-Hi there 👋, If you made it this far, welcome My name is Obi
+## Hi there 👋, If you made it this far, welcome My name is Obi
 I am an aspiring data engineer with a passion to learn as much as i can.
 
 I am a solutions architect certification holder with experience in deploying and managing infastructure using Hasicorp Terraform. 
