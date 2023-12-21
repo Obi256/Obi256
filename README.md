@@ -8,4 +8,4 @@ I also am skilled in deep data mining and visulizations using tools such as SQL,
 I am currently enrolled in to obtain my masters degree in Information Systems, i will be graduating in 2024. The skills that i will come out with are 
 data managment, networking and security, buisness analysis, ERP systems, project management, etc...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Obi256&theme=dark&show_icons=true)
